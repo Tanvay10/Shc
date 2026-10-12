@@ -1,0 +1,11 @@
+.git
+.venv
+venv
+__pycache__
+*.py[cod]
+.env
+.env.*
+*.pem
+*.key
+failed_records.json
+cleaned_patient_data.csv
